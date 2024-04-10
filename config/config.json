@@ -1,8 +1,8 @@
 {
-    "name": "StickerBOT",
-    "author": "DrelezTM",
+    "name": "Hadi",
+    "author": "thisdiex",
     "prefix": "!",
     "timezone": "Asia/Jakarta",
-    "groups": true,
+    "groups": false,
     "log": true
 }
